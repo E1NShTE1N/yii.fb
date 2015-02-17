@@ -42,3 +42,4 @@ DirectoryIndex index.php
     RewriteCond %{REQUEST_FILENAME} framework/
     RewriteRule . index.php [L]
 </IfModule>
+123
